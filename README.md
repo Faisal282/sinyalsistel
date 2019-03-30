@@ -1,6 +1,7 @@
 # SINYAL SISTEL
 
 APLIKASI WADAHSUKSES UNTUK KONVERSI ANGKA BINER KE SIGNAL DIGITAL/SIGNAL ANALOG
+https://www.wadahsukses.com/sistel/sinyal
 
 ### Langkah Install
 ![Landing Page](https://github.com/Faisal282/sinyalsistel/blob/master/ss/ss1.PNG)
