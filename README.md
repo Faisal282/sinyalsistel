@@ -25,7 +25,7 @@ Step untuk menginstall
 
 ## Authors
 
-* **Muhammad Faisal Affan** - *Full Stack* - [WADAHSUKSES](https://www.wadahsukses.com)
+* **Muhammad Faisal Affan** - *Full Stack* - [WADAHSUKSES](https://www.instagram.com/faisal.afn/)
 
 ## License
 
