@@ -47,7 +47,15 @@
             text-align: center;
             box-shadow: 0 0 1em 0.25em rgba(0, 0, 0, 0.2);
         }
+		h1#faisal span{
+			transition: all ease-in-out .4s;
+		}
 
+		h1#faisal:hover span{
+			color: #D40424;
+			transition: all ease-in-out .4s;
+			cursor: pointer;
+		}
     </style>
 </head>
 
@@ -60,7 +68,8 @@
 		</ul>
 	@endif
     <div class="body" ng-app="myApp">
-        <div class="wrapper" ng-controller="MyCtrl">
+		<div class="wrapper" ng-controller="MyCtrl">
+			<h1 id="faisal">Muhammad <span onclick="window.location.href='https://www.instagram.com/faisal.afn/'">Faisal</span> Affan</h1>
 			<form action="/sistel/sinyal" method="post">
 				<input class="input-phone" type='number' name="value" phone-input ng-model="phoneVal" />
 				@csrf
